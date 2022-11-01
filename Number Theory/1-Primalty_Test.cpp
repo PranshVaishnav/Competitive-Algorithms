@@ -1,7 +1,7 @@
 /*
   Primality test: Check whether the given Number is prime or not. 
   Naive : T(n)=O(n)
-  Optimal: T(n)=O(log(n))
+  Optimal: T(n)=O(sqrt(n))
   
 
   Instead of checking the divisor all the way to n check it through root(n) as if a*b=N 
